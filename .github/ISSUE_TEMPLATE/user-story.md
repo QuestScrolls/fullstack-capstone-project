@@ -7,14 +7,16 @@ assignees: ''
 
 ---
 
-As a [type of user],
-I want [goal],
-so that [benefit].
+**As a** [role],
+**I want** [function],
+**so that** [benefit].
 
 ### Details and Assumptions
-[document what you know]
+*  [document what you know]
 
 ### Acceptance Criteria
-Given [context],
-When [action],
-Then [outcome].
+```gherkin
+Given [some context],
+When [certain action is taken],
+Then [the outcome of action is observed].
+```
